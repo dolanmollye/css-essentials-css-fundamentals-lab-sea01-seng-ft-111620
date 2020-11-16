@@ -36,3 +36,6 @@ body {
   width: 25%;
   background-color: gray;
 }
+#a >div {
+  color: white;
+}
